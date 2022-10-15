@@ -1,3 +1,4 @@
+```cpp
 #include <iostream>
 using namespace std;
 
@@ -105,3 +106,4 @@ int main() {
    
 }
 // end Menampilkan semua hasil
+```
